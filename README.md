@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository Project](https://github.com/laiconick/single-price-grid-component)
+- Live Site URL: [Result Solution Live](https://laiconick.github.io/single-price-grid-component/)
 
 ## My process
 
